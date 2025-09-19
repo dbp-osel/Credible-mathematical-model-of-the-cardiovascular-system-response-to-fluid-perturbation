@@ -10,3 +10,15 @@ References
 [2] Varun Kanal, Pras Pathmanathan, Jin-Oh Hahn, George Kramer, Christopher G Scully, and Ramin Bighamian, Development and Validation of a Mathematical Model of Heart Rate Response to Fluid Perturbation, Scientific Reports 12, 21463 (2022). 
 
 [3] Abraham Rafie, Paul Rath, Michael Michell, Robert Kirschner, Donald Deyo, Donald Prough, James Grady, George Kramer, Hypotensive Resuscitation of Multiple Hemorrhages using Crystalloid and Colloids, Shock 22, 262-269 (2004).
+
+# Disclaimer
+About the Catalog of Regulatory Science Tools
+
+The enclosed tool is part of the Catalog of Regulatory Science Tools, which provides a peer-reviewed resource for stakeholders to use where standards and qualified Medical Device Development Tools (MDDTs) do not yet exist. These tools do not replace FDA-recognized standards or MDDTs. This catalog collates a variety of regulatory science tools that the FDA's Center for Devices and Radiological Health's (CDRH) Office of Science and Engineering Labs (OSEL) developed. These tools use the most innovative science to support medical device development and patient access to safe and effective medical devices. If you are considering using a tool from this catalog in your marketing submissions, note that these tools have not been qualified as Medical Device Development Tools and the FDA has not evaluated the suitability of these tools within any specific context of use. You may request feedback or meetings for medical device submissions as part of the Q-Submission Program.
+
+For more information about the Catalog of Regulatory Science Tools, email RST_CDRH@fda.hhs.gov.
+
+# Tool Reference 
+•	RST Reference Number: RST24IP02.01
+•	Date of Publication: 09/19/2025
+•	Recommended Citation: U.S. Food and Drug Administration. (2024). A Mathematical Model of the Cardiovascular System Response to Fluid Perturbation (RST24IP02.01). https://cdrh-rst.fda.gov/mathematical-model-cardiovascular-system-response-fluid-perturbation
